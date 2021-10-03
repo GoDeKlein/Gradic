@@ -1,0 +1,28 @@
+
+body
+{
+    background-color: aquamarine;
+}
+
+div
+{
+    
+    width: 20%;
+    height: 30%;
+    margin: auto;
+}
+input
+{
+    
+    margin-top: 5%;
+}
+.button
+{
+    margin-left: 12%;
+}
+canvas
+{
+    background-color: white;
+    border: 1px solid black;
+    margin-left: 33%;
+}
